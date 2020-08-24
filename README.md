@@ -1,6 +1,10 @@
-# dicee_flutter
+# Dicee Flutter 🎲
 
-A new Flutter application.
+<img src="https://github.com/BatuhanAydonerDev/dicee_flutter/blob/master/dicee_flutter_gif.gif" width="200" height="400" />
+
+## What I created
+
+I created a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
 ## Getting Started
 
